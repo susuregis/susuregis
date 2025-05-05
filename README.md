@@ -77,7 +77,7 @@
   
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=susuregis&repo=Spotify_Youtube_Analise&theme=radical)](https://github.com/susuregis/Spotify_Youtube_Analise)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=susuregis&repo=GWM&theme=radical)](https://github.com/susuregis/GWM)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=susuregis&repo=GWM&theme=radical)](https://github.com/susuregis/GWM)
+
 
 </div>
 
