@@ -1,4 +1,4 @@
-# <div align="center">👩‍💻 SUELEN REGINA 👩‍💻</div>
+# <div align="center">Oiiii, bem vindo ao meu GITHUB</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedora+Back-End;Analista+de+Dados;Estudante+de+ADS" alt="Typing SVG" />
