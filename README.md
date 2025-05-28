@@ -7,7 +7,7 @@
 
 ## 📚 Sobre mim
 
-🔍 Estudante apaixonada por tecnologia, cursando Análise e Desenvolvimento de Sistemas no SENAC. Com foco em desenvolvimento back-end e ciência de dados, dedico-me diariamente a aprimorar minhas habilidades técnicas através de projetos práticos, cursos complementares e contribuições em comunidades de desenvolvimento.
+🔍 Estudante apaixonada por tecnologia, cursando Análise e Desenvolvimento de Sistemas no SENAC. Com foco em desenvolvimento We b e ciência de dados, dedico-me diariamente a aprimorar minhas habilidades técnicas através de projetos práticos, cursos complementares e contribuições em comunidades de desenvolvimento.
 
 👨‍💼 Estou em busca de novas oportunidades de trabalho para aplicar e expandir minhas habilidades.
 
