@@ -74,13 +74,7 @@
 
 </div>
 
-## 🔄 Atividade Recente
 
-<!--START_SECTION:activity-->
-1. 🚀 Projeto GWM
-2. 💻 Contribuição em código aberto 
-3. 🧠 Aprendendo nova tecnologia
-<!--END_SECTION:activity-->
 
 ---
 
