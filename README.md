@@ -11,10 +11,15 @@
 
 
 🎓 Formação: 5º de  Análise e Desenvolvimento de Sistemas
+
 🐍 Especialidade:  ciência de dados, Machine Learning e desenvolvimento web 
+
 🤖 Paixão: Inteligência Artificial e LLMs 
+
 🌍 Localização: Recife, Pernambuco, Brasil
+
 💼 Status: Aberta para estágios e colaborações
+
 🎯 Objetivo: Democratizar tecnologia através de soluções inteligentes
 
 
