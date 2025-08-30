@@ -9,10 +9,13 @@
 
 🔍 Estudante apaixonada por tecnologia, cursando Análise e Desenvolvimento de Sistemas no SENAC. Com foco em desenvolvimento Web e ciência de dados e automação com IA, dedico-me diariamente a aprimorar minhas habilidades técnicas através de projetos práticos, cursos complementares e contribuições em comunidades de desenvolvimento.
 
-👨‍💼 Estou em busca de novas oportunidades de trabalho para aplicar e expandir minhas habilidades.
 
-🙌 Fico extremamente grata em colaborar com pessoas que valorizam o trabalho em equipe e que buscam resolver problemas reais.
-
+🎓 Formação: 5º de  Análise e Desenvolvimento de Sistemas
+🐍 Especialidade:  ciência de dados, Machine Learning e desenvolvimento web 
+🤖 Paixão: Inteligência Artificial e LLMs 
+🌍 Localização: Recife, Pernambuco, Brasil
+💼 Status: Aberta para estágios e colaborações
+🎯 Objetivo: Democratizar tecnologia através de soluções inteligentes
 
 
 📬 Pode falar comigo através do meu email pessoal: [susuregisestudo@gmail.com](mailto:susuregisestudo@gmail.com) ou pelo LinkedIn, o link está disponível logo abaixo.
