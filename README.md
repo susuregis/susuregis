@@ -7,15 +7,13 @@
 
 ## 📚 Sobre mim
 
-🔍 Estudante apaixonada por tecnologia, cursando Análise e Desenvolvimento de Sistemas no SENAC. Com foco em desenvolvimento Web e ciência de dados, dedico-me diariamente a aprimorar minhas habilidades técnicas através de projetos práticos, cursos complementares e contribuições em comunidades de desenvolvimento.
+🔍 Estudante apaixonada por tecnologia, cursando Análise e Desenvolvimento de Sistemas no SENAC. Com foco em desenvolvimento Web e ciência de dados e automação com IA, dedico-me diariamente a aprimorar minhas habilidades técnicas através de projetos práticos, cursos complementares e contribuições em comunidades de desenvolvimento.
 
 👨‍💼 Estou em busca de novas oportunidades de trabalho para aplicar e expandir minhas habilidades.
 
 🙌 Fico extremamente grata em colaborar com pessoas que valorizam o trabalho em equipe e que buscam resolver problemas reais.
 
-💻 Adoro criar projetos com novas tecnologias e explorar diferentes soluções técnicas.
 
-💬 Amo conversar sobre diversos assuntos, principalmente empreendedorismo, tecnologia e academia.
 
 📬 Pode falar comigo através do meu email pessoal: [susuregisestudo@gmail.com](mailto:susuregisestudo@gmail.com) ou pelo LinkedIn, o link está disponível logo abaixo.
 
