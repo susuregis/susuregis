@@ -69,11 +69,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=susuregis&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
-## 🏆 Projetos em Destaque
 
-<div align="center">
-  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=susuregis&repo=GWM&theme=radical)](https://github.com/susuregis/GWM)
 
 
 </div>
