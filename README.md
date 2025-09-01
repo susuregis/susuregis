@@ -1,84 +1,94 @@
-# <div align="center">Olá, Me chamo Suelen Regina</div>
+# <div align="center">👋 Hi there, I'm Suelen Regina</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedora+Back-End;Cientista+de+dados;Estudante+de+ADS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer;Data+Science+Enthusiast;Systems+Analysis+Student;Building+Tomorrow's+Solutions" alt="Typing SVG" />
+</div>
+
+---
+
+## **About**
+Systems Analysis and Development student (3rd semester) at **SENAC**, focused on developing scalable solutions with JavaScript, Python, and AI-driven automation.
+
+```javascript
+const developer = {
+    name: "Suelen Regina",
+    role: "Backend Developer & Data Scientist",
+    institution: "SENAC",
+    location: "Brazil",
+    interests: ["Full-Stack Development", "Data Science", "AI/ML", "Automation"]
+}
+```
+
+## **🛠️ Tech Stack**
+
+<div align="center">
+
+| **Languages** | **Frontend** | **Backend** |
+|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+
+| **Databases** | **AI & ML** | **Tools** |
+|:---:|:---:|:---:|
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+
 </div>
 
 
-## 📚 Sobre mim
+## **📊 GitHub Analytics**
 
-🔍 Estudante apaixonada por tecnologia, cursando Análise e Desenvolvimento de Sistemas no SENAC. Com foco em desenvolvimento Web e ciência de dados e automação com IA, dedico-me diariamente a aprimorar minhas habilidades técnicas através de projetos práticos, cursos complementares e contribuições em comunidades de desenvolvimento.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susuregis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susuregis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susuregis&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%"/>
+</div>
 
-📬 Pode falar comigo através do meu email pessoal: [susuregisestudo@gmail.com](mailto:susuregisestudo@gmail.com) ou pelo LinkedIn, o link está disponível logo abaixo.
+## **🎯 Currently**
 
-## 🚀 Habilidades
+- **Working on:** Full-stack web applications with modern JavaScript frameworks
+- **Learning:** Advanced machine learning algorithms and cloud deployment
+- **Looking for:** Collaboration opportunities on innovative tech projects
+- **Open to:** Internship positions in backend development and data science
+
+## **🏆 Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=susuregis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+</div>
+
+## **💡 Philosophy**
+
+*"If you've done something manually more than twice, automate it on the third time"*
+
+---
+
+## **📬 Let's Connect**
 
 <div align="center">
   
-### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelen-regina-a46868240)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susuregisestudo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/susuregis)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Banco de dados
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</div>
-
-## 🔗 Conecte-se comigo
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suelen-regina-a46868240)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](susuregisestudo@gmail.como:luizhlimagomes28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/susuregis)
-
+**💬 Let's talk about:** `JavaScript` • `Python` • `Data Science` • `Backend Development` • `Tech Opportunities`
 
 </div>
-
-## 📊 Estatísticas GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susuregis&theme=tokyonight)
-
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susuregis&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-
-
-
-</div>
-
-
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=susuregis&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=susuregis&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  
   <br><br>
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
-  ### "Transformando ideias em código, um commit de cada vez."
+  <br><br>
+  
+  ⭐ **Star my repositories if you find them useful!** ⭐
 </div>
-
