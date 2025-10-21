@@ -7,7 +7,7 @@
 ---
 
 ## **About**
-Systems Analysis and Development student (5rd semester) at **SENAC**, focused on developing scalable solutions with JavaScript, Python, and AI-driven automation.
+Systems Analysis and Development student at **SENAC**, focused on developing scalable solutions with JavaScript, Python, and AI-driven automation.
 
 ```javascript
 const developer = {
