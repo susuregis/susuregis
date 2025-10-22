@@ -9,6 +9,9 @@
 ## **About**
 Systems Analysis and Development student at **SENAC**, focused on developing scalable solutions with JavaScript, Python, and AI-driven automation.
 
+Convido você a conhecer meu portfólio de Ciência de Dados! Nele, compartilho projetos que desenvolvi com foco em análise exploratória, machine learning e storytelling com dados. Tenho me aprofundado cada vez mais na área e aprendido continuamente por meio de projetos.
+
+
 ```javascript
 const developer = {
     name: "Suelen Regina",
